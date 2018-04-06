@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">HackathonDemo</string>
-    <string name="hey">Hello World!</string>
+    <string name="hey">Hello Hackathon</string>
+
 </resources>
